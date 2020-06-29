@@ -9,7 +9,7 @@ function retweet(){
 
   var last_id;
   var query = {
-    q: 'atriz',
+    q:'' ,
     result_type:"recent",
     since_id: last_id
   }
